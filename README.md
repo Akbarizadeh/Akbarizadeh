@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Wings Programmer 👋</h1>
 
-**Software engineer with a focus on backend development and distributed systems. On top of cutting-edge technologies, I have experience designing and implementing resilient, scalable, and maintainable systems using C#, .NET, Node Js. My interests include microservices, system design, software architecture, domain driven design (DDD), event sourcing, CQRS, DevOps. I enjoy learning, sharing, and facing challenges. I am also passionate about open-source. As a manager, it is essential that you keep up with new technologies, systems, and languages in a real-world environment to be an effective manager. When you are a Team Lead, you will sometimes have to deal with stress, and system failures make this even worse. Plan ahead and create a team that can handle crises (which will occur).**
+**Software engineer with a focus on backend development and distributed systems. On top of cutting-edge technologies, I have experience designing and implementing resilient, scalable, and maintainable systems using C#, .NET, and Node Js. My interests include microservices, system design, software architecture, domain-driven design (DDD), event sourcing, CQRS, and DevOps. I enjoy learning, sharing, and facing challenges. I am also passionate about open-source. As a manager, you must keep up with new technologies, systems, and languages in a real-world environment to be an effective manager. When you are a Team Lead, you will sometimes have to deal with stress, and system failures make this even worse. Plan and create a team that can handle crises (which will occur).**
 
 
 
@@ -65,26 +65,3 @@
 
 <br/>
 
-<h2 align="center">💻 Open Source Projects</h2>
-
-<p align="left">
-  I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally. here are some of my projects:
-</p>
-
-- 🛍️ [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices): A practical e-commerce microservices, built with .Net 7, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
-- 🎮 [mehdihadeli/game-leaderboard-microservices](https://github.com/mehdihadeli/game-leaderboard-microservices): Implementation of a imaginary Game Leader Board application, based on Event Driven Architecture, Vertical Slice Architecture, Event Sourcing with EventStoreDB, Redis SortedSet and Pub/Sub, SignalR and .Net 8.
-- 🚀 [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture): A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
-- 🐉 [mehdihadeli/vertical-slice-api-template](https://github.com/mehdihadeli/vertical-slice-api-template): An asp.net core template based on .Net 8, Vertical Slice Architecture, CQRS, Minimal APIs, API Versioning and Swagger.
-- 🧺 [mehdihadeli/go-ecommerce-microservices](https://github.com/mehdihadeli/go-ecommerce-microservices): A practical store microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
-- 🚃 [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR): A library for handling mediator pattern and simplified CQRS pattern within an event driven architecture. inspired by csharp MediatR library.
-- ⚡ [FastEndpoints/FastEndpoints - Contributer](https://github.com/FastEndpoints/FastEndpoints): A light-weight REST API development framework for ASP.Net 6 and newer.
-- 📙 [davidfowl/TodoApi - Contributer](https://github.com/davidfowl/TodoApi): Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication
-- 🪣 [mehdihadeli/ecommerce-modular-monolith](https://github.com/mehdihadeli/ecommerce-modular-monolith): A practical e-commerce modular monolith, built with .Net 7, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
-- 🧪 [mehdihadeli/tdd-sample](https://github.com/mehdihadeli/tdd-sample): A sample project demonstrating Test-Driven Development (TDD) using .Net 8 and Vertical Slice Architecture based on Minimal APIs in .NET Core
-- 🥷 [mehdihadeli/go-vertical-slice-template](https://github.com/mehdihadeli/go-vertical-slice-template): A Golang boilerplate template, based on Vertical Slice Architecture and CQRS pattern with using Echo, Gorm, Zap, Viper, MediatR for CQRS and sarulabs/di for Dependency Injection.
-- 🎬 [mehdihadeli/movie-search-application](https://github.com/mehdihadeli/movie-search-application): A simple movie search app, built with .Net 7, Vertical Slice Architecture and using TMDB APIs and YouTube APIs for searching and details of the movies.
-
-<h2 align="center">🚀 Activities</h2>
-<p align="center">
-  <a href="#" alt="mehdi hadeli's github stats"><img src="https://github-readme-stats.vercel.app/api?username=mehdihadeli" /></a>
-</p>
